@@ -72,6 +72,6 @@ npm start
 ```
 By default, the backend runs on ```http://localhost:5000``` and the frontend on ```http://localhost:3000```.
 
-💬 Feedback
+## 💬 Feedback
 If you have any feedback, feature requests, or ideas,
 please open an issue or contact me!!
